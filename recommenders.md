@@ -12,7 +12,7 @@
 
 ## Papers
 
-* []()
-* [Factoprization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf)
+* [Matrix Factorization Techniques for Recommender Systems](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf)
+* [Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf)
 * [Pandora's Music Recommender](http://courses.cs.washington.edu/courses/csep521/07wi/prj/michael.pdf)
 
