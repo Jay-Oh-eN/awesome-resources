@@ -29,3 +29,8 @@
 * [Jay Kreps](http://blog.empathybox.com/)
 * [Coda Hale](http://codahale.com/)
 
+## Applications
+
+* https://www.youtube.com/watch?v=Khdbhw2UfS8
+* http://dev.datasift.com/blog/bitly-datasift-and-links-resolution
+* Look at old talks from here: http://www.meetup.com/SF-Data-Engineering/
