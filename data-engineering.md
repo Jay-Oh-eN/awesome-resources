@@ -22,12 +22,21 @@
 * Consistent hashing
 * MinHash
 * [RAFT: Visualization](http://thesecretlivesofdata.com/)
+* [K-d tree](https://en.wikipedia.org/wiki/K-d_tree)
 
-## Blogs 
+## Similarity at Scale
+
+* [Locality Sensitive Hashing](http://infolab.stanford.edu/~ullman/mmds/ch3.pdf#page=16)
+* [Dimension Independent Matrix Square using MapReduce](http://stanford.edu/~rezab/papers/dimsumposter.pdf)
+* [DIMSUM with Spark](https://databricks.com/blog/2014/10/20/efficient-similarity-algorithm-now-in-spark-twitter.html)
+* [Label Paritioning for Sublinear Ranking](http://www.thespermwhale.com/jaseweston/papers/label_partitioner.pdf) (with [video](https://www.youtube.com/watch?v=8NNW2kta8og))
+
+## Blogs/talks 
 
 * [Nathan Marz](http://nathanmarz.com/)
 * [Jay Kreps](http://blog.empathybox.com/)
 * [Coda Hale](http://codahale.com/)
+* [How Airbnb Generates Complex Models in Spark for Demand Prediction](http://www.slideshare.net/SparkSummit/appraiser-how-airbnb-hector-yee)
 
 ## Applications
 
