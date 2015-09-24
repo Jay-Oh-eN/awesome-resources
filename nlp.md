@@ -16,8 +16,10 @@ Natural language processing is a interdisciplinary field combining computer scie
 
 #### Theory/Application
 
+* [Efficient Estimation of Word Representations in
+Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
 * [Distributed Representations of Words and Phrases
-and their Compositionality (original paper)](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 * [Distributed Representations of Sentences and Documents](http://arxiv.org/pdf/1405.4053v2.pdf)
 * [deeplearning4j tutorial (with applications)](http://deeplearning4j.org/word2vec.html)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
