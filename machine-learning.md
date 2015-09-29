@@ -1,6 +1,7 @@
 ## General
 
 * [Intro to ML Course: Smola](http://alex.smola.org/teaching/10-701-15/intro.html)
+* [Introduction to ML with Python (scikit-learn)](https://speakerdeck.com/amueller/machine-learning-with-scikit-learn-pydata-strata-nyc-2015)
 
 ## Semi-Supervised
 
