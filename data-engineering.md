@@ -43,3 +43,7 @@
 * https://www.youtube.com/watch?v=Khdbhw2UfS8
 * http://dev.datasift.com/blog/bitly-datasift-and-links-resolution
 * Look at old talks from here: http://www.meetup.com/SF-Data-Engineering/
+
+## Technologies
+
+* [Kafka](http://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/)
