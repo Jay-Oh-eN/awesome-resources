@@ -2,6 +2,11 @@
 
 Natural language processing is a interdisciplinary field combining computer science, machine learning and AI, as well as computational linguistics.  NLP is primarily focused on techniques to better represent unstructured text data in a mathematical form as well as models of that text to algorithmically derive meaning.
 
+## Courses
+
+* [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
+* [Stanford CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
+
 ## Web Scraping
 
 > Coming Soon!
