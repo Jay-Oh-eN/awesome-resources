@@ -4,7 +4,7 @@ Natural language processing is a interdisciplinary field combining computer scie
 
 ## Courses
 
-* [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/playlist?list=PL6397E4B26D00A269) ([Coursera](https://class.coursera.org/nlp/lecture))
+* [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/playlist?list=PL6397E4B26D00A269) ([Coursera videos](https://class.coursera.org/nlp/lecture))
 * [Stanford CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
 
 ## Web Scraping
