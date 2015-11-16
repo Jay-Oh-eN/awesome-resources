@@ -40,7 +40,7 @@ and their Compositionality](http://papers.nips.cc/paper/5021-distributed-represe
 
 ## Information Retrieval/Search
 
-> Coming Soon!
+* [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)
 
 ## Topic Modeling
 
