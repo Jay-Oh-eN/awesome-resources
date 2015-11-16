@@ -25,6 +25,7 @@ and their Compositionality](http://papers.nips.cc/paper/5021-distributed-represe
 * [deeplearning4j tutorial (with applications)](http://deeplearning4j.org/word2vec.html)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [word2vec: an introduction](http://www.folgertkarsdorp.nl/word2vec-an-introduction/)
+* [A Word is Worth a Thousand Vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 
 #### Tools
 
