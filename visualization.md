@@ -36,6 +36,13 @@
 * [c3.js (charting)][c3]
 * [Queue.js (multiple data files)][queue]
 
+## Next Steps
+* [Visual Storytelling with D3 (Ritchie King)][ritchie]
+* [Data Visualization and D3.js (Udacity)][udacity]
+* [Interactive Data Vizualization (Scott Murray)][murray]
+* [CSE512: Data Visualization (University of Washington)][uw-viz]
+* [D3 Meetups][meetups]
+
 ## Visualization Examples
 
 ### Author Driven
@@ -67,13 +74,6 @@
 #### [Flight Delays][flights] (538)
 
 ![][flights-img]
-
-## Next Steps
-* [Visual Storytelling with D3 (Ritchie King)][ritchie]
-* [Data Visualization and D3.js (Udacity)][udacity]
-* [Interactive Data Vizualization (Scott Murray)][murray]
-* [CSE512: Data Visualization (University of Washington)][uw-viz]
-* [D3 Meetups][meetups]
 
 ## License
 
