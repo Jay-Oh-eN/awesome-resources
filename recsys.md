@@ -1,5 +1,7 @@
 ## Overview
 
+* [Methods Overview](https://www.quora.com/Which-algorithms-are-used-in-recommender-systems)
+
 ## Courses
 
 * [Coursera: Mining of Massive Datasets](https://www.coursera.org/course/mmds)
@@ -16,3 +18,8 @@
 * [Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf)
 * [Pandora's Music Recommender](http://courses.cs.washington.edu/courses/csep521/07wi/prj/michael.pdf)
 
+## (Python) Libraries
+
+* [LightFM](https://github.com/lyst/lightfm)
+* [Suprise](https://github.com/NicolasHug/Surprise)
+* [PySpark](https://spark.apache.org/docs/latest/ml-collaborative-filtering.html)
