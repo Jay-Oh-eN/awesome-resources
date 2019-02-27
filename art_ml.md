@@ -1,4 +1,4 @@
-## Art and Machine Learning
+## Art and Machine Learning (with some new media thrown in)
 
 These are resources and tutorials for anyone interested in using machine learning for creative uses. Whether you are an artist looking to augment your practice with machine learning or a ML engineer/researcher wanting to make creative applications.
 
@@ -27,10 +27,14 @@ Here is a list of some common creative coding libraries (not including machine l
 
 *if you do not know where to start/what to use, I would recommend using processing.py (Processing in Python) or p5.js*
 
-### Machine Learning Tools
 
+### Machine Learning Tools (for making art)
 
-
+* [Magenta](https://magenta.tensorflow.org/)
+* [Runway](https://runwayapp.ai/)
+* [Tensorflow.js](https://js.tensorflow.org/)
+* [ml5.js](https://ml5js.org/)
+* [ofxAddons](http://ofxaddons.com/categories/14-machine-learning)
 
 
 ### Google Colab Examples/Documentation
@@ -78,4 +82,28 @@ Here are some examples/tutorials on creating generative, procedural, or algorith
 A non-exhaustive list of people doing interesting things at the interseciton of art and ML
 
 * Meme Akten ([webite](http://www.memo.tv/works/) and [blog](https://medium.com/@memoakten))
+* [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
+* [Hannah Davis](http://www.hannahishere.com/)
 * [Mario Klingemann](http://quasimondo.com/)
+* [Robbie Barrat](https://robbiebarrat.github.io/)
+* [Mimi Onuoha](http://mimionuoha.com/)
+* [Allison Parrish](https://www.decontextualize.com/)
+* [Tega Brain](http://tegabrain.com/)
+* [Kyle McDonald](http://kylemcdonald.net/)
+* [Mike Tyka](http://www.miketyka.com/)
+* [Gene Kogan](http://genekogan.com/)
+* [Dan Shiffman](https://shiffman.net/)
+* [Molly Wright Steenson](http://www.girlwonder.com/)
+* [Ken Goldberg](https://goldberg.berkeley.edu/)
+* [Eric Paulos](http://www.paulos.net/index.html)
+
+
+### Places
+
+* [ITP](https://tisch.nyu.edu/itp)
+* [Berkeley Center for New Media](http://bcnm.berkeley.edu/)
+* [Goldsmiths](https://www.gold.ac.uk/computing/)
+* [MIT Media Lab](https://www.media.mit.edu/)
+* [Google Creative Lab](https://www.creativelab5.com/)
+* [The Brown Institute](https://brown.columbia.edu/)
+* [UCLA Design Media Arts](http://dma.ucla.edu/)
