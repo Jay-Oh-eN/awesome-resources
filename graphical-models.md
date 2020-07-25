@@ -1,5 +1,6 @@
 
 https://ermongroup.github.io/cs228-notes/
+https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html
 
 also the videos/slides from this course are quite good: http://ai.berkeley.edu/lecture_videos.html
 
