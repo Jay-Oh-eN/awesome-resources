@@ -1,3 +1,10 @@
+### CC Media
+
+* [Creative Commons](https://search.creativecommons.org/search/)
+* [CC Mixter](http://ccmixter.org/query-api)
+* [Soundcloud](https://developers.soundcloud.com)
+* [Europeana](https://pro.europeana.eu/page/apis)
+
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
