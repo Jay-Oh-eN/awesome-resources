@@ -4,6 +4,10 @@
 * [CC Mixter](http://ccmixter.org/query-api)
 * [Soundcloud](https://developers.soundcloud.com)
 * [Europeana](https://pro.europeana.eu/page/apis)
+* [Freesound](https://freesound.org)
+* [Project Gutenberg](http://www.gutenberg.org)
+* [Librivox](https://librivox.org) and [Librispeech](https://www.openslr.org/12)
+* [Mozilla Common Voice](https://voice.mozilla.org)
 
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
